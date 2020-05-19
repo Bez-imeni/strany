@@ -1,2 +1,2 @@
-# strany
+# strany.github.io
 Сайт
